@@ -19,3 +19,6 @@ Bu çalışmada, bir sunucu çökse veya silinse bile AWS'nin otomatik olarak ye
 Bu projenin tamamı **AWS Free Tier** limitleri dahilindedir:
 - EC2 t2.micro (750 saat/ay ücretsiz)
 - Launch Template & ASG (Ücretsiz servisler)
+
+ Ekran Görüntüsü
+![](explanation_1.png)
