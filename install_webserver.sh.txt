@@ -1,0 +1,10 @@
+#!/bin/bash
+# Paketi güncelle
+yum update -y
+# Apache web sunucusunu kur
+yum install -y httpd
+# Servisi başlat ve açılışta çalışacak şekilde ayarla
+systemctl start httpd
+systemctl enable httpd
+# Basit bir karşılama sayfası oluştur
+echo "<h1>AWS Auto Scaling Test: Sunucum Calisiyor!</h1>" > /var/www/html/index.html
