@@ -21,4 +21,4 @@ Bu projenin tamamı **AWS Free Tier** limitleri dahilindedir:
 - Launch Template & ASG (Ücretsiz servisler)
 
  Ekran Görüntüleri
-
+![](explanation_1.png)
