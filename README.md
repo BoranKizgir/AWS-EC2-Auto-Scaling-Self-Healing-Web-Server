@@ -26,3 +26,4 @@ Bu projenin tamamı **AWS Free Tier** limitleri dahilindedir:
 ![](explanation_3.png)
 ![](explanation_4.png)
 ![](explanation_5.png)
+
